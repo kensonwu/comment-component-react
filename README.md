@@ -11,6 +11,7 @@
 2. 父子组件之间的通信
 3. jQuery异步调用模拟的后端数据
 4. 当然还有ES6 的知识
+5. 还使用了semantic ui的css 以及gulp
 
 ## 运行项目
 1. 首先clone了这个项目 需要运行 "npm install" 安装必须的依赖
